@@ -15,8 +15,6 @@ This project implements an NLP-based binary classifier to distinguish between sp
 
 
 
-
-
 <img width="655" alt="Screenshot 2024-12-10 at 8 32 04 PM" src="https://github.com/user-attachments/assets/0717d5b3-2405-4612-b6ff-6f3c859dcd9b">
 
 ## 🖥️ Requirements

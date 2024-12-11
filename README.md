@@ -1,4 +1,4 @@
-# Email Spam Classification
+# 📧 Email Spam Classification
 
 A machine learning project that classifies emails as spam or non-spam (ham) using logistic regression and text feature engineering.
 
